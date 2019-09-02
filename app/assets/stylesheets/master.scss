@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Manjari|Playfair+Display&display=swap');
 
 .clear {
   clear: both;
@@ -42,6 +43,7 @@
   color:black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'Code_Pro_Demo', sans-serif;
 }
 
 header {
@@ -51,3 +53,12 @@ header {
 hr {
   clear:both;
 }
+
+h1 {
+font-family: 'Playfair Display', serif;
+}
+
+h2 {
+font-family: 'Playfair Display', serif;
+}
+
